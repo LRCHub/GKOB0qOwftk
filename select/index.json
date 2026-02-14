@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "青い煙",
+  "base_artist": "Aooo",
+  "createdAt": "2026-02-14T04:12:16.276983Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青い煙",
+      "artist": "Aooo",
+      "has_synced": false,
+      "path": "select/pl_01_青い煙_Aooo.txt"
+    }
+  ]
+}
